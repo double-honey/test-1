@@ -4,6 +4,7 @@
 
 i'am a pizza
 
->center chzee
+>center chezee
 
 - oregano
+- no,mushroom
